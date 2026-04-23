@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sonhip</h1>
+<h1 align="center">Hi 👋, I'm DGL</h1>
 <h3 align="center">Frontend Developer | React | Vue | Node.js</h3>
 
 <p align="center">
@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonhip&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonhip&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luongngocdungbv&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongngocdungbv&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -49,7 +49,3 @@
 ---
 
 ## 🌟 Featured Projects
-
-- [Project 1](https://github.com/sonhip/project1) - Short description
-- [Project 2](https://github.com/sonhip/project2) - Short description
-- [Project 3](https://github.com/sonhip/project3) - Short description
