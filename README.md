@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Vue+%7C+Node.js;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=IT+Developer;PHP+%7C+JavaScript+%7C+Laravel+%7C+MySQL;C%2B%2B+%7C+C%23+%7C+SQL+Server;React+%7C+Vue+%7C+Node.js;Hospital+IT+%7C+Web+Apps+%7C+System+Development;Always+learning+new+things" />
 </p>
----
 
 ## 👨‍💻 About Me
 
