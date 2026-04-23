@@ -54,30 +54,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luongngocdungbv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luongngocdungbv&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luongngocdungbv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -85,19 +61,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📌 Featured Projects
-
-- [bvhb](https://github.com/luongngocdungbv/bvhb) - Source code project
-- [MAcbook](https://github.com/luongngocdungbv/MAcbook) - Code of macbook
-- [CodeZip](https://github.com/luongngocdungbv/CodeZip) - Codezip project
-- [pluginproduct](https://github.com/luongngocdungbv/pluginproduct) - Product plugin
-- [product](https://github.com/luongngocdungbv/product) - Botble product plugins share
-- [templatenews](https://github.com/luongngocdungbv/templatenews) - News template project
-
----
 
 ## ✨ Quote
 
