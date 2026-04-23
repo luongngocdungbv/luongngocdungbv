@@ -52,16 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=luongngocdungbv&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/luongngocdungbv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ## ✨ Quote
 
 > “Keep learning, keep building, keep improving.”
